@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SqliteImageDemo</string>
+    <string name="get_image">GET IMAGE</string>
+    <string name="view_image">VIEW IMAGE</string>
+</resources>
